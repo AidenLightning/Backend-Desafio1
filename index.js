@@ -73,5 +73,5 @@ class ProductManager {
   productos.getProductById(1);
 
 
-  // 6.- getProductsById marca error si el id no existe.
+  // 7.- getProductsById marca error si el id no existe.
   productos.getProductById(16);
